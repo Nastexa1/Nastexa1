@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Nasteha
 
-<!--
-**Nastexa1/Nastexa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer  
+🎨 Frontend & Backend Developer  
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### 🌐 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- Tailwind CSS  
+- React  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- PHP  
+- MySQL  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🚀 Projects
+
+### 🩸 Blood Donation System
+A full-stack blood donation management system.
+
+**Tech Used:**  
+React • Tailwind CSS • Node.js • Express • MongoDB  
+
+---
+
+### 🍽️ Restaurant Website
+A modern and responsive restaurant website.
+
+🔗 GitHub Repository:  
+👉 https://github.com/Nastexa1
+
+---
+
+## 🌐 Portfolio
+🔗 https://my-website-9tku.onrender.com/
+
+---
+
+## 📫 Contact Me
+📧 Email: **nastexofeysal@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/eng-nasteha-9473b3338/
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastexa1&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastexa1&layout=compact&theme=dark)
