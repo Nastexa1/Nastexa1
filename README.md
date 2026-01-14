@@ -58,8 +58,7 @@ A modern and responsive restaurant website.
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastexa1&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastexa1&show_icons=true&hide=prs,issues&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastexa1&layout=compact&theme=dark)
+
 
