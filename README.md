@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="">
   👋 Hi, I'm <span style="color:#00C853">Nasteha</span>
 </h1>
 <h3 align="center">
